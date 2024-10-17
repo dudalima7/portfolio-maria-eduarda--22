@@ -1,0 +1,13 @@
+body{
+background-color: beige;
+display:flex;
+justify-content: center;
+align-items: center;
+height: 100hv;
+border: rosybrown;
+}
+
+img {
+     border-radius:  360px; 
+     width: 100px;
+}
